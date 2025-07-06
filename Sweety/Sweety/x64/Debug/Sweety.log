@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\visual studio\Sweety\Sweety\main.cpp(50,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\visual studio\Sweety\Sweety\main.cpp(499,1): warning C4566: символ, представленный универсальным именем символа "\u25BD", невозможно представить в текущей кодовой странице (1251)
+D:\visual studio\Sweety\Sweety\main.cpp(631,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\visual studio\Sweety\Sweety\main.cpp(742,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\visual studio\Sweety\Sweety\main.cpp(744,66): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\visual studio\Sweety\Sweety\main.cpp(795,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\visual studio\Sweety\Sweety\main.cpp(807,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\visual studio\Sweety\Sweety\main.cpp(150): warning C4715: startig_menu: значение возвращается не при всех путях выполнения
+  Sweety.vcxproj -> D:\visual studio\Sweety\x64\Debug\Sweety.exe
